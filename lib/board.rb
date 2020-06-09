@@ -5,3 +5,5 @@ puts(board)
 def penis_lover
   puts("Micah");
 end
+
+penis_lover
